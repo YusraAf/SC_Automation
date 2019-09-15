@@ -1,0 +1,10 @@
+git init
+git add .
+git commit
+
+git remote add origin +++repository 
+
+git pull origin master --allow-unrelated-histories
+
+https://kbroman.org/github_tutorial/pages/init.html
+

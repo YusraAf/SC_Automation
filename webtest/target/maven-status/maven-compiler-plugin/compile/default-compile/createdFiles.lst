@@ -1,0 +1,13 @@
+org\practice\webtest\config\JavaConfig.class
+org\practice\webtest\pages\PropertyDetails.class
+org\practice\webtest\config\PropertyLoader.class
+org\practice\webtest\core\TestBase.class
+org\practice\webtest\core\PageBase.class
+org\practice\webtest\pages\Dashboard.class
+org\practice\webtest\pages\Investment.class
+org\practice\webtest\App.class
+org\practice\webtest\pages\ViewProperties.class
+org\practice\webtest\pages\Login.class
+org\practice\webtest\config\AppConfig.class
+org\practice\webtest\core\PropertyLoader.class
+org\practice\webtest\core\Browser.class

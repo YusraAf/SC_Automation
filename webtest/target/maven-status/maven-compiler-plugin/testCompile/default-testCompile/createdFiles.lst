@@ -1,0 +1,3 @@
+org\practice\webtest\AppTest.class
+org\practice\webtest\regression\RegressionTestRunner.class
+org\practice\webtest\regression\RegressionStepDefinition.class
